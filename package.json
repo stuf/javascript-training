@@ -1,0 +1,21 @@
+{
+  "name": "javascript-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:stuf/javascript-training.git",
+  "author": "Stefan Rimaila <stefan@rimaila.fi>",
+  "license": "MIT",
+  "scripts": {
+    "start": "npm run test -- --watch",
+    "lint": "eslint src/",
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-stats": "^0.3.0",
+    "eslint": "^3.19.0",
+    "mocha": "^3.4.1",
+    "sinon": "^2.2.0"
+  }
+}
