@@ -5,8 +5,8 @@
  *   input: ('top', 'kek')
  *   output: 'topkek'
  *
- * @param {string} string1
- * @param {string} string2
+ * @param {string} string1 - The first string to concatenate
+ * @param {string} string2 - The second string to concatenate
  * @returns {string}
  */
 function concatenateStrings(string1, string2) {
@@ -20,7 +20,7 @@ function concatenateStrings(string1, string2) {
  *   input: ('foobar')
  *   output: 6
  *
- * @param {string} text
+ * @param {string} text - The string to get the length from
  * @returns {number}
  */
 function getStringLength(text) {

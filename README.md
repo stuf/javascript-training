@@ -35,6 +35,8 @@ Your task is to implement all of the features.
 
 The tasks are located within `src/tasks/`. Every task file will contain a set of functions that you will need to implement. The functions are documented, with examples on the input and the expected output.
 
+>**Do not change the `module.exports` in the tasks**
+
 ## About the implementations
 
 >**Bookmark the [MDN JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)** — it's a very comprehensive JavaScript reference for all things related to JavaScript.
